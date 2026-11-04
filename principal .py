@@ -1,6 +1,5 @@
 from funciones import ejecutar_menu_principal, iniciar_sesion
 
-
 def main() -> None:
     """Función principal que inicia la autenticación y el menú del sistema."""
     nombre_usuario_1 = "danilo"
